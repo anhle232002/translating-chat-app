@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/anhle232002/TCA_BE.git
+[submodule "client"]
+	path = client
+	url = https://github.com/anhle232002/TCA_FE.git
